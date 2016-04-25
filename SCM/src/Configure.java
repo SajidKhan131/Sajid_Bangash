@@ -6,6 +6,8 @@ public class Configure {
 		
 		System.out.println(" Hello Dear");
 		System.out.println("Hi dear");
+		System.out.println("Hi Class");
+		
 
 	}
 
